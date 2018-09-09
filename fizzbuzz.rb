@@ -8,3 +8,5 @@ def fizzbuzz(int)
   else return nil
   end
 end
+
+fizzbuzz(15)
